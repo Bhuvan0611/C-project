@@ -39,6 +39,7 @@ A **terminal-based store management system** built entirely in **C**, designed t
 📌 Example:
 
 1,Vishnu,9876543210,1234,10.0
+
 2,Meghana,8123456789,4321,0.0
 
 ## 📦 Inventory Format (`inventory_data.txt`)
@@ -48,6 +49,7 @@ A **terminal-based store management system** built entirely in **C**, designed t
 📌 Example:
 
 DD_123 Almonds 760.00 20
+
 DD_101 Milk 60.00 30
 
 - Prefixes like `D`, `S`, `B`, etc., are used to categorize sections:
