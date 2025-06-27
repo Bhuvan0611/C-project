@@ -10,3 +10,17 @@ ID     |     Name     |  Price  | Quantity
 DD_105 | Butter       | 250.00  | 1  
 			Total Purchase Price = 250.000000
 ------------------------------------
+
+  (New Customer ) Name : Neeraja		Checkout Date and Time: Fri Jun 27 18:32:56 2025
+ID     |     Name     |  Price  | Quantity
+SK_301 | Chips        | 20.00   | 2  
+BV_404 | Coffee       | 250.00  | 1  
+			Total Purchase Price = 290.000000
+------------------------------------
+
+  (Old SignedUp Customer) Name : Vishnu		Checkout Date and Time: Fri Jun 27 18:37:13 2025
+ID     |     Name     |  Price  | Quantity
+GC_201 | Rice         | 2052.00 | 6  
+			Total Purchase Price = 2052.000000 (With 10.000000% Discount)
+------------------------------------
+
