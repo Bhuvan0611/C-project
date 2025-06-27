@@ -64,16 +64,25 @@ DD_101 Milk 60.00 30
 🧠 Concepts Covered :-
 
 📌 File Handling (Read/Write Text Files)
+
 📌 Structs and Arrays
+
 📌 Pointer Manipulation
+
 📌 Conditional Logic and Loops
+
 📌 String Parsing
+
 📌 Console Cursor Movement (cursor(x, y) logic)
+
 📌 Modular Code with Custom Functions
 
 
+
 👨‍💻 Developed By :-
+
 Venkata Bhuvan Kosuru
+
 🏫 IIT Patna
 
 
