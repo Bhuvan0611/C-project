@@ -61,15 +61,6 @@ DD_101 Milk 60.00 30
 
 ---
 
-## 🛠️ How to Run
-
-### 💻 Compile
-```bash
-gcc main.c -o store
-./store
-
-💡 Make sure customers_data.txt and inventory_data.txt are in the same directory as your executable.
-
 🧠 Concepts Covered :-
 
 📌 File Handling (Read/Write Text Files)
@@ -80,7 +71,18 @@ gcc main.c -o store
 📌 Console Cursor Movement (cursor(x, y) logic)
 📌 Modular Code with Custom Functions
 
+
 👨‍💻 Developed By :-
 Venkata Bhuvan Kosuru
 🏫 IIT Patna
+
+
+## 🛠️ How to Run
+
+### 💻 Compile
+```bash
+gcc main.c -o store
+./store
+
+💡 Make sure customers_data.txt and inventory_data.txt are in the same directory as your executable.
 
